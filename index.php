@@ -429,7 +429,8 @@ foreach ($curCmds as $c) {
 
 <footer>
 <div class="container">
-&copy; 2026 Telegram Bot Utility Platform. Разработано в соответствии с актуальными спецификациями Telegram Bot API.
+&copy; 2026 Telegram Bot Utility Platform. Разработано в соответствии с актуальными спецификациями Telegram Bot API. |
+<a href="https://github.com/f1devbin/getWebhookInfo" target="_blank" style="color: var(--tg-blue); text-decoration: none; font-weight: bold;">⭐ Проект на GitHub</a>
 </div>
 </footer>
 
